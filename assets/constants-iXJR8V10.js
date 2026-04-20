@@ -1,0 +1,1 @@
+const e=[{value:"all",label:"All"},{value:"movie",label:"Movies"},{value:"show",label:"Shows"},{value:"anime",label:"Anime"},{value:"game",label:"Games"},{value:"sports",label:"Sports"}],l=["2026","2025","2024"],a=[{value:"interested",label:"Interested"},{value:"watching",label:"Watching / Following"},{value:"completed",label:"Completed / Watched"}];export{e as C,a as W,l as Y};
