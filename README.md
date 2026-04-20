@@ -1,4 +1,4 @@
-🚀 ReleaseRadar
+### 🚀 ReleaseRadar
 
 Discover. Track. Never miss a drop.
 
@@ -6,9 +6,9 @@ ReleaseRadar is a modern, production-level React web application that helps user
 
 Built with a focus on real-world usability, clean UI/UX, and scalable architecture, this project integrates multiple APIs and Firebase to deliver a personalized tracking experience.
 
-#####
+---
 
-🌟 Features
+## 🌟 Features
 
 🔍 Discover Releases
 Browse releases from 2024 – 2026
@@ -25,9 +25,9 @@ Year
 Platform
 Title search
 
-#####
+---
 
-❤️ Watchlist System
+## ❤️ Watchlist System
 Add releases to personal watchlist
 Persistent storage using:
 🔥 Firebase Firestore
@@ -37,54 +37,54 @@ Interested
 Watching
 Completed
 
-#####
+---
 
-🔐 Authentication
+## 🔐 Authentication
 Firebase Authentication:
 Email & Password login/signup
 User-specific data storage
 Protected routes (Dashboard, Watchlist, Profile)
 
-#####
+---
 
-⚡ Real-time Feedback
+## ⚡ Real-time Feedback
 Toast notifications:
 ✅ “Added to Watchlist”
 Loading states for better UX
 Error handling (API/network issues)
 
-#####
+---
 
-🎨 Premium UI/UX
+## 🎨 Premium UI/UX
 Black + Bright Orange theme
 Glassmorphism + gradient design
 Netflix-style navbar with animated logo
 Responsive layout (mobile-friendly)
 Smooth hover + micro-interactions
 
-#####
+---
 
-🧠 Tech Stack
+## 🧠 Tech Stack
 
-Frontend
+# Frontend
 ⚛️ React (Vite)
 🎨 CSS (Custom styling, no frameworks)
 🔄 React Hooks
 
-Backend / Services
+# Backend / Services
 🔥 Firebase
 Authentication
 Firestore Database
 
-APIs Used
+# APIs Used
 🎮 RAWG API → Games data
 🎬 TMDB API → Movies & Shows
 📺 Custom logic → Anime (curated + API)
 ⚽ Static curated data → Sports events
 
-#####
+---
 
-📁 Project Structure
+## 📁 Project Structure
 src/
 │
 ├── components/ # UI components (cards, navbar, modals, etc.)
@@ -95,9 +95,9 @@ src/
 ├── utils/ # Helper functions (formatters, etc.)
 ├── styles/ # index.css (global styling)
 
-#####
+---
 
-⚙️ Setup & Installation
+## ⚙️ Setup & Installation
 1️⃣ Clone the repo
 git clone https://github.com/your-username/release-radar.git
 cd release-radar
@@ -121,13 +121,13 @@ VITE_TMDB_API_KEY=your_tmdb_key
 4️⃣ Run the app
 npm run dev
 
-App will run on:
+## App will run on:
 
 http://localhost:5173
 
-#####
+---
 
-🧪 Key Functionalities
+## 🧪 Key Functionalities
 🔄 Debounced search filtering
 ⚡ API integration with async/await
 🔐 Auth state management using Context API
@@ -135,9 +135,9 @@ http://localhost:5173
 🧩 Component-based architecture
 📦 Environment variable handling (Vite)
 
-#####
+---
 
-⚠️ Limitations
+## ⚠️ Limitations
 Streaming platform data (Netflix, Prime, etc.) is not always accurate due to API limitations
 Anime data is partially curated (not fully API-driven)
 Some APIs may be blocked by network/firewall
@@ -148,17 +148,17 @@ Some APIs may be blocked by network/firewall
 🎥 Trailer integration (YouTube API)
 🧠 AI-based recommendations
 
-#####
+---
 
-👨‍💻 Author
+## 👨‍💻 Author
 
 Nishant Borah
 Scaler School of Technology
 Batch: 2029
 
-#####
+---
 
-🏁 Conclusion
+## 🏁 Conclusion
 
 ReleaseRadar demonstrates a real-world, production-ready React application combining:
 
