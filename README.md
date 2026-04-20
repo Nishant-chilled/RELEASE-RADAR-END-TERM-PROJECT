@@ -14,9 +14,9 @@ The platform integrates real-world APIs and Firebase services to deliver a **per
 ---
 
 ## 🌐 Live Demo
-# Project website 👉 https://nishant-chilled.github.io/RELEASE-RADAR-END-TERM-PROJECT/#/dashboard
+### Project website 👉 https://nishant-chilled.github.io/RELEASE-RADAR-END-TERM-PROJECT/#/dashboard
 
-# Project features and demo video [YT link (unlisted)] 👉 https://youtu.be/SA9vM4vbSrs
+### Project features and demo video [YT link (unlisted)] 👉 https://youtu.be/SA9vM4vbSrs
 ---
 
 ## 📁 Project Structure
