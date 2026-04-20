@@ -1,0 +1,1 @@
+import{j as o,L as e}from"./index-C5Lz7Ttt.js";function a(){return o.jsxs("section",{className:"hero card",children:[o.jsx("h2",{children:"404 — Page not found"}),o.jsx("p",{children:"The page you are looking for does not exist."}),o.jsx(e,{className:"button",to:"/dashboard",children:"Go back home"})]})}export{a as default};
