@@ -8,7 +8,8 @@ The platform integrates real-world APIs and Firebase services to deliver a **per
 ---
 
 ## 📸 Application Preview
-*(Add your app screenshot here)*
+<img width="1547" height="905" alt="Screenshot 2026-04-20 at 10 43 38 PM" src="https://github.com/user-attachments/assets/e70380d2-6c5b-4747-96b6-4313fb56ca48" />
+
 
 ---
 
@@ -21,7 +22,8 @@ Project website 👉 *(Add your GitHub Pages link here)*
 ---
 
 ```
-src/
+
+ src/
 
 │
 ├── components/ # Reusable UI components (cards, navbar, modals)
