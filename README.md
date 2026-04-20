@@ -20,7 +20,9 @@ Project website 👉 *(Add your GitHub Pages link here)*
 ## 📁 Project Structure
 ---
 
+```
 src/
+
 │
 ├── components/ # Reusable UI components (cards, navbar, modals)
 ├── pages/ # Main pages (Discover, Watchlist, Dashboard)
@@ -29,6 +31,8 @@ src/
 ├── context/ # Global state (AuthContext)
 ├── utils/ # Helper functions
 ├── styles/ # Global styling (index.css)
+
+```
 
 ## 🧩 Problem Statement
 Tracking releases across platforms like movies, anime, games, and sports is fragmented and inefficient.  
